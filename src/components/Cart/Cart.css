@@ -1,0 +1,8 @@
+.cart{
+    background: rgba(255, 153, 0, 0.3);
+    padding: 25px;
+    position: sticky;
+    margin-top: 50px;
+    top: 50px;
+    border-radius: 10px;
+}
